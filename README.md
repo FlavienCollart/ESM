@@ -11,10 +11,12 @@
 </b>
 </div>
 
+**This repository is no longer maintained. Please, check the new version here: https://github.com/ModInB/ESM**
+
 
 ### <i class="fas fa-tools"></i> Installation
 
-**This repository is no longer maintained. Please, check the new version here: https://github.com/ModInB/ESM**
+
 
 - **Development version** [![v](https://img.shields.io/badge/dev%20version-0.1-53AA93.svg)](https://github.com/FlavienCollart/ESM)
 ```R
